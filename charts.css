@@ -1,0 +1,29 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+
+.chart_change_button {
+    background-color: rgb(14, 14, 133);
+    color: white;
+    border: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .chart_change_button:hover{
+    transform: scale(0.8);
+    transition: all ease-in 0.2s;
+  }
+
+  span {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }

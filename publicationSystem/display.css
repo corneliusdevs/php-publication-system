@@ -1,0 +1,62 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header{
+    color: rgb(14, 14, 133 );
+    height: 20vh;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    padding-left: 1.5em;
+    text-align: left;
+    display: flex;
+    justify-content: left;
+    margin-bottom: -20px;
+    
+}
+.publication_info{
+    padding: 1.5em;
+    padding-top: 0;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+h5{
+    padding: 15px;
+    padding-bottom: 0;
+    padding-left: 40px;
+    color: rgb(14, 14, 133);
+    margin: 6px 0;
+    font-size: 14px;
+    margin-top: 30px;
+}
+.text p{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+    margin-bottom: 40px;
+    font-weight: 500;
+}
+.container{
+    padding: 1.5em;
+    font-weight: 500;
+    /* padding-right: 0; */
+}
+
+.arrange{
+    display: flex;
+    justify-content: left;
+    word-break: break-word;
+}
+
+.half-width{
+    width: 50%;
+    padding: 10px;
+    padding-left: 0;
+}
+
+.blue{
+    color: rgb(14, 14, 133 );
+}
